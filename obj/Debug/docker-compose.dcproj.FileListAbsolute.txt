@@ -1,1 +1,0 @@
-C:\Users\dhowell\source\repos\CQRSExample\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
