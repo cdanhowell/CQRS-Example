@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  dataeventemmitter:
+    image: dataeventemmitter
+    build:
+      context: .
+      dockerfile: DataEventEmmitter/Dockerfile
+    ports:
+      - "32770:80"
+    
+  rabbit1:
+    image: "rabbitmq:3-management"
+    hostname: "rabbit"
+    environment:
+      RABBITMQ_DEFAULT_USER: "rabbitmq"
+      RABBITMQ_DEFAULT_PASS: "rabbitmq"
+    ports:
+      - "8080:15672"
+      - "5672:5672"
+    labels:
+      NAME: "some-rabbit"
+
+  dataevents:
+    image: dataevents
+    build:
+      context: .
+      dockerfile: DataEvents/Dockerfile
+    ports:
+      - "32771:80"
+
+  dataeventprocessor:
+    image: dataeventprocessor
+    build:
+      context: .
+      dockerfile: DataEventProcessor/Dockerfile

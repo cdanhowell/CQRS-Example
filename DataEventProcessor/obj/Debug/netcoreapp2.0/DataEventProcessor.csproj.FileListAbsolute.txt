@@ -1,0 +1,11 @@
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\bin\Debug\netcoreapp2.0\DataEventProcessor.deps.json
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\bin\Debug\netcoreapp2.0\DataEventProcessor.runtimeconfig.json
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\bin\Debug\netcoreapp2.0\DataEventProcessor.runtimeconfig.dev.json
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\bin\Debug\netcoreapp2.0\DataEventProcessor.dll
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\bin\Debug\netcoreapp2.0\DataEventProcessor.pdb
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.csprojResolveAssemblyReference.cache
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.csproj.CoreCompileInputs.cache
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.AssemblyInfoInputs.cache
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.AssemblyInfo.cs
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.dll
+C:\Users\dhowell\source\repos\CQRSExample\DataEventProcessor\obj\Debug\netcoreapp2.0\DataEventProcessor.pdb
